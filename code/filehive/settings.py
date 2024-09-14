@@ -30,7 +30,7 @@ django.utils.encoding.force_text = force_str
 SECRET_KEY = "django-insecure-+v1krc1yd6r7vux+_pce*l14aiglyc-y*gmrvo&famp9_o!49^"
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 #  to be updated for simulation
 ALLOWED_HOSTS = ['*']
 
